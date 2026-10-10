@@ -1,2 +1,2 @@
 # Mi_primer_sitio
-clonar Git con visual
+Proyecto del taller de Git
